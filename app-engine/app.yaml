@@ -1,0 +1,4 @@
+runtime: python37
+service: house-prices-api
+env: standard
+instance_class: F1
